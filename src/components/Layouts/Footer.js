@@ -74,7 +74,7 @@ function Footer() {
         </div>
       </div>
       <div className='footer-bottom'>
-        Made with *** by Raju Raj
+        Made by Raju Raj
       </div>
 
     </div>

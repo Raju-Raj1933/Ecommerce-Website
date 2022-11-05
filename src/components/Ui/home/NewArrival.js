@@ -7,7 +7,7 @@ const bestSellerList = [
   {
       id: 1,
       name: 'Broken Heart Plant',
-      img: 'https://cdn.shopify.com/s/files/1/0579/7924/0580/products/philodendronbrokenheart_45_1.png?v=1661318401&width=550',
+      img: 'https://cdn.shopify.com/s/files/1/0579/7924/0580/products/brokenheart45-_1__1_360x.png?v=1661340336',
       newPrice: 300,
       oldPrice: 400,
   },
@@ -21,14 +21,14 @@ const bestSellerList = [
   {
       id: 3,
       name: 'Fittonia Green Plant',
-      img: 'https://cdn.shopify.com/s/files/1/0579/7924/0580/products/fittoniagreennew_45.png?v=1662822948&width=550',
+      img: 'https://cdn.shopify.com/s/files/1/0579/7924/0580/products/fittonia45-_1__1_360x.png?v=1661340310',
       newPrice: 100,
       oldPrice: 150,
   },
   {
       id: 4,
       name: 'Lucky Bamboo',
-      img: 'https://cdn.shopify.com/s/files/1/0579/7924/0580/products/luckybamboo3layer_45_jpg.png?v=1661320811&width=550',
+      img: 'https://cdn.shopify.com/s/files/1/0579/7924/0580/products/luckybamboo3layer_45_jpg_360x.png?v=1661439920',
       newPrice: 2000,
       oldPrice: 2500,
   },

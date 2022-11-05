@@ -18,7 +18,7 @@ function HeaderCarousel() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="https://cdn.shopify.com/s/files/1/0579/7924/0580/files/Home_Page_Banner_Generic_20.08_Comp.png?v=1661755438"
+          src="https://cdn.shopify.com/s/files/1/0579/7924/0580/files/newbanner.png?v=1660380915"
           alt="Second slide"
         />
         <Carousel.Caption>
@@ -29,7 +29,7 @@ function HeaderCarousel() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="https://cdn.shopify.com/s/files/1/0579/7924/0580/files/Home_Page_Banner_Generic_20.08_Comp.png?v=1661755438"
+          src="https://imgcdn.floweraura.com/flower_homepage_fa_desktop_2.jpg?tr=w-1583,dpr-1.5,q-70"
           alt="Third slide"
         />
         <Carousel.Caption>
