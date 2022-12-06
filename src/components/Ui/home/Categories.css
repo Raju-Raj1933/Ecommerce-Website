@@ -4,6 +4,7 @@
 .categories-row{
     margin-top: 2rem;
     display: flex;
+    flex-wrap:wrap;
     flex-direction: row;
     justify-content: space-between;
     text-align: center;

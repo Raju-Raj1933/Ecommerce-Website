@@ -11,7 +11,7 @@ function Footer() {
         <div className='footer-header-item'>
           plants grow people
         </div>
-        <div className='footer-header-item'>
+        {/* <div className='footer-header-item'>
           plants grow people
         </div>
         <div className='footer-header-item'>
@@ -19,7 +19,7 @@ function Footer() {
         </div>
         <div className='footer-header-item'>
           plants grow people
-        </div>
+        </div> */}
       </div>
       <div className='footer-container'>
         <div className='footer-section footer-section-left'>

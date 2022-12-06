@@ -12,7 +12,7 @@ const bestSellerList = [
     {
         id: 2,
         name: 'Snake Plant',
-        img: 'https://cdn.shopify.com/s/files/1/0579/7924/0580/products/sansevieriafuturasuperba_45_1_360x.png?v=1661329683',
+        img: 'https://cdn.shopify.com/s/files/1/0579/7924/0580/products/45-new_2_360x.png?v=1661440023',
         newPrice: 700,
         oldPrice: 849,
     },
@@ -25,8 +25,8 @@ const bestSellerList = [
     },
     {
         id: 4,
-        name: 'Groot',
-        img: 'https://cdn.shopify.com/s/files/1/0579/7924/0580/products/crassulagreenmini_45.png?v=1661335319&width=550',
+        name: 'Fan Palm',
+        img: 'https://cdn.shopify.com/s/files/1/0579/7924/0580/products/tablepalm45_360x.png?v=1661439840',
         newPrice: 2000,
         oldPrice: 2500,
     },
@@ -37,6 +37,7 @@ const bestSellerList = [
 function BestSeller() {
   return (
     <div className='home-bestseller-container'>
+        {/* <img src="https://cdn.shopify.com/s/files/1/0579/7924/0580/products/sansevieriafuturasuperba_45_1_360x.png?v=1661329683" /> */}
         <p className='section-heading'>
             <img src='https://cdn.shopify.com/s/files/1/0579/7924/0580/files/Bestseller-1_2x_9a883cf1-58ba-4c74-badf-f02924575b68_small.png?v=1656416175' />
             Best Sellers

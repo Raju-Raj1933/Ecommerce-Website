@@ -14,7 +14,7 @@ const bestSellerList = [
   {
       id: 2,
       name: 'Jade Plant Mini',
-      img: 'https://cdn.shopify.com/s/files/1/0579/7924/0580/products/crassulagreenmini_45.png?v=1661335319&width=550',
+      img: 'https://cdn.shopify.com/s/files/1/0579/7924/0580/products/ficus_eyelevel_360x.png?v=1661439848',
       newPrice: 700,
       oldPrice: 849,
   },
@@ -27,10 +27,10 @@ const bestSellerList = [
   },
   {
       id: 4,
-      name: 'Lucky Bamboo',
-      img: 'https://cdn.shopify.com/s/files/1/0579/7924/0580/products/luckybamboo3layer_45_jpg_360x.png?v=1661439920',
-      newPrice: 2000,
-      oldPrice: 2500,
+      name: 'Multivitamin Plant',
+      img: 'https://cdn.shopify.com/s/files/1/0579/7924/0580/products/276ae162-93ba-41d9-bbc8-1d5dd8d3a04b_360x.png?v=1661340834',
+      newPrice: 2499,
+      oldPrice: 2999,
   },
   // {
   //     id: 5,
